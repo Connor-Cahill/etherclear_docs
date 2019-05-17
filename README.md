@@ -1,5 +1,5 @@
 <div style="display: flex; direction: row; justify-content: center; margin-bottom: 32px;">
-  <img src="./etherclear-logo.svg" alt="Etherclear logo" style="height: 220px; width: 540px" />
+  <img src="./docsify/etherclear-logo.svg" alt="Etherclear logo" style="height: 220px; width: 540px" />
 </div>
 
 
