@@ -1,0 +1,13 @@
+<svg width="161px" height="32px" viewBox="0 0 161 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-78.000000, -38.000000)" fill="#1465BE">
+            <g id="Logo-no-white" transform="translate(78.000000, 39.000000)">
+                <text id="etherclear" font-family="SourceCodeProForPowerline-Bold, Source Code Pro for Powerline" font-size="18" font-weight="bold">
+                    <tspan x="26.59" y="18">etherclear</tspan>
+                </text>
+                <polygon id="Triangle" stroke="#1465BE" transform="translate(12.000000, 15.000000) rotate(-90.000000) translate(-12.000000, -15.000000) " points="12 3.5 18.1288116 12.8975111 27 26.5 12 18.3718201 -3 26.5"></polygon>
+                <polygon id="Triangle" stroke="#1465BE" transform="translate(149.000000, 15.000000) rotate(90.000000) translate(-149.000000, -15.000000) " points="149 3.5 155.128812 12.8975111 164 26.5 149 18.3718201 134 26.5"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>
